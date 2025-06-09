@@ -1,4 +1,4 @@
-# TOPKnightTraveils
+# TOPKnightTravails
 Exercise on graphs 
 
 ## Assignment
